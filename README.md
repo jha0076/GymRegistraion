@@ -9,6 +9,7 @@ does the following:
 details of user and payment and does the payment for you. You don’t need to
 implement it.
  Return the response to front-end depending on the payment response from
- I have implemented the api using the nodejs and javascript and has connected the node module with my mongodb database which I have created.
+ I have implemented the api using the nodejs and javascript and has connected the node module with my mongodb database which I have created. The admission form takes the the required data from the user and save in json Format in the Database.
  ER Diagram: https://drive.google.com/file/d/1sb3rmi2JRoZlg7QmwCMDAAHQbRLHuuO4/view?usp=share_link
- Loom Explanation Link: 
+ Loom Vedio Explanation Link: https://loom.com/share/b9f2011e297540958e4d3240dbcdaac0
+ 
